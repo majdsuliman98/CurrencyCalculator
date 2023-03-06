@@ -15,7 +15,11 @@ npm install
 
 
 # How to run
-You can start running it through:
+### Run application
 ```sh
 npm run dev
+```
+### Run test 
+```sh
+npm run test
 ```
